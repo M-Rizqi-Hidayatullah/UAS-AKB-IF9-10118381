@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // NIM : 10118381
+    // NAMA : MUHAMMAD RIZQI HIDAYATULLAH
+    // KELAS : IF-9
+
+    <string name="ga_trackingId">UA-204671259-1</string>
+
+    <integer name="ga_sessionTimeout">300</integer>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <string name="ga_sampleFrequency">100.0</string>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <screenName name="UAS_10118381_MuhammadRizqiHidayatullah.ActivityFullScreenImage">Full Image Screen</screenName>
+    <screenName name="UAS_10118381_MuhammadRizqiHidayatullah.ActivityMain">Main Screen</screenName>
+    <screenName name="UAS_10118381_MuhammadRizqiHidayatullah.ActivityMaps">Maps Screen</screenName>
+    <screenName name="UAS_10118381_MuhammadRizqiHidayatullah.ActivityPlaceDetail">Place Detail Screen</screenName>
+    <screenName name="UAS_10118381_MuhammadRizqiHidayatullah.ActivitySetting">Setting Screen</screenName>
+    <screenName name="UAS_10118381_MuhammadRizqiHidayatullah.ActivitySplash">Splash Screen</screenName>
+
+
+</resources>
